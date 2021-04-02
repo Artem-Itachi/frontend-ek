@@ -1,0 +1,52 @@
+h2{
+    color: #6cb6d9;
+}
+p{
+   color: black;
+}
+.box:before {
+    content: ' \2709';
+    color: #6cb6d9;
+}
+.bog:before {
+    content: ' \2706';
+    color: #6cb6d9;
+}
+.chika {
+    margin-left:100px;
+
+}
+.photo img {
+    height: 150px;
+    width: 150px;
+    border: 3px solid #6cb6d9;
+        border-radius: 800px; 
+}
+body {
+    display: flex;
+    justify-content: center;
+    font-family: 'Oswald', sans-serif;
+    color: black;
+}
+.photo {
+    display: flex;
+}
+.title {
+    padding-left: 110px;
+}
+main{
+    display:flex;
+}
+.wrapper {
+    border: 1px solid #6cb6d9;
+    padding: 30px;
+    border-width: 4px;
+    background: #c7b39b url(kal.jpg);
+    background-size: 800px 1005px;
+}
+header {
+}
+.lya {
+    width: 300px;
+    border-top: 2px solid #6cb6d9;
+}
