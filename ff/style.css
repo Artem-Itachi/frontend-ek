@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+}
+.container{
+    margin: 0 auto;
+    width: 700px;
+    background: #e4905f;
+    opacity: 0.8
+}
+h1{
+    font-size: 36px;
+    margin-top: 120px;
+}
+.right{
+    padding-top: 5px;
+    color: black;
+    background-color: rgba(0, 200, 0, 0.5);
+    border-radius: 20px;
+    padding-left:5px;
+}
+.wrong{
+    padding-top: 5px;
+    background-color: rgb(255, 44, 55);
+    border-radius: 20px;
+}
+.hidden{
+    display: none;
+}
+.opend{
+    background-color: skyblue;
+}
+input, button{
+    cursor: pointer;
+    font-family: 'Press Start 2P', cursive;
+}
+h2{
+    margin: 0;
+    font-size: 40px;
+}
+.quetion{
+    margin-top: 50px;
+    font-size: 20px;
+}
+span{
+    margin-left: 5px;
+}
+.button1{
+    width: 700px;
+    font-size: 15px;
+    border-radius: 20px;
+    height: 35px;
+    font-weight: bold;
+    font-family: 'Press Start 2P', cursive
+}
+.button2{
+    font-size: 15px;
+    border-radius: 20px;
+    background: rgb(255, 255, 255);
+    width: 700px;
+    height: 25px;
+    font-weight: bold;
+    font-family: 'Press Start 2P', cursive
+}
+.button3{
+    font-size: 15px;
+    border-radius: 20px;
+    background: darkcyan;
+    width: 700px;
+    height: 25px;
+    font-weight: bold;
+    font-family: 'Press Start 2P', cursive;
+}
+.right_div, .wrong{
+
+    width: 700px;
+    text-align: center;
+}
+p{
+    letter-spacing: 0px;
+    padding-bottom: 10px;
+    font-size: 17px;
+}
+body{
+    font-family: 'Press Start 2P', cursive;
+    background: #c7b39b url(konoha3.jpg);
+    margin: 0;
+}
