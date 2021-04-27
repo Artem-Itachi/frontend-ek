@@ -1,0 +1,13 @@
+*{
+    font-size: 20px;
+}
+body {
+background: #c7b39b url(123.jpg);
+background-size: 1920px 1080px;
+}
+p {
+    color: aliceblue;
+}
+h1 {
+    color: aliceblue;
+}
